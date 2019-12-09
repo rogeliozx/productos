@@ -1,0 +1,14 @@
+{
+  "libros": [
+    {
+      "nombre": "React y sus bases",
+      "precio": "100",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Angular 8",
+      "precio": "201"
+    }
+  ]
+}
